@@ -44,7 +44,7 @@ Minha paixão por tecnologia se traduz na criação de soluções digitais com f
 ### 📊 Lean Thinking + Inovação Digital
 
 * Kaizen | Gestão da Rotina | PDCA Ágil  
-* Master Black Belt em Lean Six Sigma  
+* Master Black Belt (em formação) - Lean Six Sigma  
 * Frameworks autorais: **T-as-K** e **SHU HA RI**
 
 ---
