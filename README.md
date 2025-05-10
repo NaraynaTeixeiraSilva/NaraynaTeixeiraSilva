@@ -1,83 +1,82 @@
 # 👩‍💻 Narayna Teixeira
 
-🚀 Transformação Digital Lean | Inovação Tecnológica | Gestão da Mudança  
-📍 Komatsu Brasil | SOK (Service Operation Kaizen)  
-🎓 Administração - Unisanta | Matemática - IME-USP | Ciência de Dados - Univesp  
-🥋 Master Black Belt | Gestão de Projetos | Ágil | Lean | Microsoft
+🚀 **Lean Digital Transformation | Tech Innovation | Change Management**  
+📍 Komatsu Brazil | **SOK – Service Operation Kaizen**  
+🎓 Business Administration – Unisanta | Mathematics – IME-USP | Data Science – Univesp  
+🥋 Master Black Belt | Project Management | Agile | Lean | Microsoft Ecosystem  
 
 ---
 
-## 💡 Sobre mim
+## 💡 About Me
 
-Sou movida por um propósito claro: **usar a tecnologia como força criativa para conectar pessoas, transformar processos e gerar valor contínuo**.
+I’m driven by a clear purpose: **to use technology as a creative force to connect people, transform processes, and generate continuous value**.
 
-Atuo como líder no projeto global **SOK – Service Operation Kaizen** na Komatsu Brasil, aplicando os princípios do **Lean** e da **melhoria contínua (Kaizen)** para otimização de processos e KPIs nos distribuidores do país.
+I lead the global project **SOK – Service Operation Kaizen** at Komatsu Brazil, applying **Lean principles** and **Kaizen thinking** to optimize processes and KPIs across our distributor network.
 
-Minha paixão por tecnologia se traduz na criação de soluções digitais com foco em **valor sustentável**, integração entre **Pessoas, Processos e Tecnologia**, e decisões orientadas por dados (**Data Driven**). Acredito que **Transformação Digital é cultura, estratégia e legado** — e é isso que me move.
-
----
-
-## 🧭 Minha abordagem
-
-> “Transformação Digital não é sobre digitalizar — é sobre criar experiências, gerar valor e transformar a forma como vivemos e trabalhamos.”
-
-- 🧠 **Lean como base estratégica**  
-- 💡 **Kaizen como filosofia de vida**  
-- 🛠 **Tecnologia como meio, não como fim**  
-- 👥 **Pessoas no centro da inovação**  
-- 🔁 **Ciclos PDCA + Mentalidade Ágil**
+My passion for technology translates into **digital solutions** with a focus on sustainable value, integrating **People, Processes, and Technology**, and making **data-driven decisions**. For me, **Digital Transformation is culture, strategy, and legacy** — and that’s what keeps me going.
 
 ---
 
-## ⚙️ Especialidades Técnicas
+## 🧭 My Approach
 
-### 🌐 Microsoft Power Platform | M365 | IA
-- Power Apps | Power Automate | Power BI | Copilot Studio  
-- SharePoint | Teams | OneDrive | PowerPoint | Sway  
+> “Digital Transformation is not about going digital — it’s about creating meaningful experiences, generating value, and transforming how we live and work.”
 
-### 🧪 Automação & Dados
-- Python | VBA | HTML/CSS | JavaScript  
-- Prototipação Ágil | Modelagem de Dados | Dashboards  
-
-### 📊 Lean Thinking + Inovação Digital
-- Kaizen | Gestão da Rotina | PDCA Ágil  
-- Master Black Belt em Lean Six Sigma  
-- Frameworks autorais: **T-as-K** e **SHU HA RI**
+- 🧠 **Lean as a strategic foundation**  
+- 💡 **Kaizen as a life philosophy**  
+- 🛠️ **Technology as the means, not the goal**  
+- 👥 **People at the center of innovation**  
+- 🔁 **PDCA Cycles + Agile Mindset**
 
 ---
 
+## ⚙️ Tech Stack & Tools
 
-## 🔁 Frameworks Autorais de Transformação Digital
+<div align="left">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3"/>
+  <img height="30" src="https://learn.microsoft.com/en-us/media/logos/powerapps.svg" title="Power Apps"/>
+  <img height="30" src="https://learn.microsoft.com/en-us/media/logos/powerautomate.svg" title="Power Automate"/>
+  <img height="30" src="https://learn.microsoft.com/en-us/media/logos/powerbi.svg" title="Power BI"/>
+  <img height="30" src="https://static-00.iconduck.com/assets.00/sharepoint-icon-512x512-f7lm02fv.png" title="SharePoint"/>
+  <img height="30" src="https://static-00.iconduck.com/assets.00/microsoft-teams-icon-512x512-huev1ufq.png" title="Teams"/>
+  <img height="30" src="https://img.icons8.com/ios-filled/50/000000/office-365.png" title="Microsoft 365"/>
+</div>
+
+---
+
+## 🔁 My Frameworks for Digital Transformation
 
 ### 🌀 [`T-as-K: Task as Kaizen`](https://github.com/narayna-teixeira/t-as-k-framework)
-Framework que transforma **tarefas rotineiras em oportunidades de melhoria contínua**, com foco em agilidade, digitalização e entrega de valor enxuto.
+A framework that turns **routine tasks into Kaizen opportunities**, focused on agility, digitization, and delivering lean value.
 
-### 🔂 Jornada de Transformação Digital: `SHU HA RI`
-Framework que une filosofia japonesa de aprendizado (Shu-Ha-Ri), UX, BPM, KPO, Cultura Organizacional e Desenvolvimento Ágil:
+### 🔂 `Digital Transformation Journey: SHU HA RI`
+A framework that blends the Japanese learning philosophy **Shu-Ha-Ri** with UX, BPM, Agile, and Organizational Culture:
 
-- **SHU** – Standardize, Hold, Understand (Padronização)  
-- **HA** – High-performance Advancement (Automação & Melhoria)  
-- **RI** – Revolutionary Innovation (Inovação disruptiva e digital)
-
----
-
-## ✨ Meu diferencial
-
-- Integro **estratégia, operação e tecnologia** com visão sistêmica  
-- Transformo **rotinas em soluções digitais simples, replicáveis e poderosas**  
-- Levo o **Kaizen como filosofia de vida e motor da inovação**  
-- Crio frameworks e produtos **escaláveis, mensuráveis e orientados por dados**
+- **SHU** – Standardize, Hold, Understand  
+- **HA** – High-performance Advancement  
+- **RI** – Revolutionary Innovation  
 
 ---
 
-## 🌱 Filosofia
+## ✨ What Makes Me Different
 
-> “O Kaizen é mais do que uma prática empresarial – é uma forma de viver e evoluir.”
-
-Sou apaixonada por **melhoria contínua**. Isso me impulsiona a inovar, transformar e contribuir para um mundo mais humano, eficiente e digital.
+- I connect **strategy, operations, and technology** with a systemic mindset  
+- I turn **daily routines into smart, scalable, and replicable solutions**  
+- I live by the Kaizen mindset, making **continuous improvement a lifestyle**  
+- I design **frameworks and digital products** that are scalable, measurable, and data-driven  
 
 ---
 
-📫 Vamos inovar juntos?  
-🔗 [LinkedIn](https://linkedin.com/in/narayna-teixeira-silva-047472182) | 📧 [narayna.tsilva@gmail.com](mailto:narayna.tsilva@gmail.com)
+## 🌱 My Philosophy
 
+> “Kaizen is more than a business practice — it’s a way of living and evolving.”
+
+I’m passionate about **continuous improvement**. It drives me to innovate, transform, and help build a more human, efficient, and digital world.
+
+---
+
+📫 Let’s innovate together!  
+🔗 [LinkedIn](https://linkedin.com/in/narayna-teixeira-silva-047472182)  
+📧 [narayna.tsilva@gmail.com](mailto:narayna.tsilva@gmail.com)
