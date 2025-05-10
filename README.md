@@ -3,7 +3,7 @@
 🚀 **Transformação Digital Lean | Inovação Tecnológica | Gestão da Mudança**  
 📍 Komatsu Brasil | SOK (Service Operation Kaizen)  
 🎓 Administração - Unisanta | Matemática - IME-USP | Ciência de Dados - Univesp  
-🥋 Master Black Belt | Gestão de Projetos | Ágil | Lean | Microsoft
+🥋 Black Belt | Gestão de Projetos | Ágil | Lean | Microsoft
 
 ---
 
