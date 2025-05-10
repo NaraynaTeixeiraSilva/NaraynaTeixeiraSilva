@@ -85,4 +85,4 @@ Sou apaixonada por **melhoria contínua**. Isso me impulsiona a inovar, transfor
 📫 Vamos inovar juntos?  
 🔗 [LinkedIn](https://linkedin.com/in/narayna-teixeira-silva-047472182) | 📧 [narayna.tsilva@gmail.com](mailto:narayna.tsilva@gmail.com)
 
-![Status do Workflow](https://github.com/NaraynaTeixeiraSilva/NaraynaTeixeiraSilva/actions/workflows/cobrinha.yml/badge.svg)
+![Cobrinha dos Commits](https://raw.githubusercontent.com/NaraynaTeixeiraSilva/NaraynaTeixeiraSilva/output/contribution-grid-snake.svg)
