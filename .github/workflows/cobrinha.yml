@@ -10,21 +10,6 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Garantir que o branch 'output' existe
-      - name: Configurar branch de saída
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
-          if ! git ls-remote --exit-code --heads origin output; then
-            git checkout --orphan output
-            git rm -rf .
-            echo "Branch de saída criado." > README.md
-            git add README.md
-            git commit -m "Criar branch de saída"
-            git push origin output
-          fi
-
       # Snake Animation
       - uses: Platane/snk@master
         id: snake-gif
