@@ -84,3 +84,4 @@ Sou apaixonada por **melhoria contínua**. Isso me impulsiona a inovar, transfor
 
 📫 Vamos inovar juntos?  
 🔗 [LinkedIn](https://linkedin.com/in/narayna-teixeira-silva-047472182) | 📧 [narayna.tsilva@gmail.com](mailto:narayna.tsilva@gmail.com)
+
