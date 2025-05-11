@@ -45,8 +45,9 @@ Minha paixão por tecnologia se traduz na criação de soluções digitais com f
 
 ### 📊 Lean Thinking + Inovação Digital
 
-* Kaizen | Gestão da Rotina | PDCA Ágil  
-* Master Black Belt (em formação) - Lean Six Sigma  
+* Kaizen | Kaikaku | Kakushin| Gestão da Rotina | Gemba | PDCA Ágil
+* Dantotsu | Kanban | 5S | Omotenashi | Hoshin Kanri | Hitozokuri | Monozokuri |  Kotozokuri
+* Master Black Belt (em formação) | Black Belt | Green Belt | Yellow Belt | White Belt - Lean Six Sigma  
 * Frameworks autorais: **T-as-K** e **SHU HA RI**
 
 ---
