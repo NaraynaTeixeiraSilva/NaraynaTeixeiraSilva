@@ -1,12 +1,14 @@
 # 👩‍💻 Narayna Teixeira
 
-🚀 **Transformação Digital Lean | Inovação Tecnológica | Gestão da Mudança | Melhoria Continua | UX | Power Platform**  
-📍 Komatsu Brasil | SOK (Service Operation Kaizen)  
-📘 Curso Técnico | Administração - Etec Adolpho Berezin | Regência - Etec de Artes | Comércio | Secretariado- Etec Praia Grande | Desenvolvimento de Sistemas- FAT- Fundação de Apoio a Tecnologia
-📚 Especialização Técnica | Gestão de Projetos - Etec Praia Grande   
-🎓 Graduação | Administração - Unisanta | Matemática - IME-USP | Ciência de Dados - Univesp    
-🎓 Aluna Especial de Mestrado | Inovação Tecnológica - UNIFESP 
-🥋 Black Belt | Gestão de Projetos | Ágil | Lean | Microsoft   
+🚀 **Transformação Digital Lean | Inovação Tecnológica | Gestão da Mudança | Melhoria Continua | UX | Power Platform**<br>
+📍 Komatsu Brasil | SOK (Service Operation Kaizen)<br>
+
+📘 Curso Técnico | Administração - Etec Adolpho Berezin | Regência - Etec de Artes | Comércio | Secretariado - Etec Praia Grande | Desenvolvimento de Sistemas - FAT - Fundação Apoio a Tecnologia<br>
+📚 Especialização Técnica | Gestão de Projetos - Etec Praia Grande<br>
+
+🎓 Graduação | Administração - Unisanta | Matemática - IME-USP | Ciência de Dados - Univesp<br>
+🧠 Aluna Especial de Mestrado | Inovação Tecnológica - UNIFESP<br>
+🥋Master Black Belt | Gestão de Projetos | Ágil | Lean | Microsoft  
 
 ---
 
