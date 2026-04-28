@@ -5,6 +5,7 @@
 📘 Curso Técnico | Administração - Etec Adolpho Berezin | Regência - Etec de Artes | Comércio | Secretariado- Etec Praia Grande    
 📚 Especialização Técnica | Gestão de Projetos - Etec Praia Grande   
 🎓 Graduação | Administração - Unisanta | Matemática - IME-USP | Ciência de Dados - Univesp    
+🎓 Aluna Especial de Mestrado | Inovação Tecnológica - UNIFESP 
 🥋 Black Belt | Gestão de Projetos | Ágil | Lean | Microsoft   
 
 ---
