@@ -2,7 +2,7 @@
 
 🚀 **Transformação Digital Lean | Inovação Tecnológica | Gestão da Mudança | Melhoria Continua | UX | Power Platform**  
 📍 Komatsu Brasil | SOK (Service Operation Kaizen)  
-📘 Curso Técnico | Administração - Etec Adolpho Berezin | Regência - Etec de Artes | Comércio | Secretariado- Etec Praia Grande    
+📘 Curso Técnico | Administração - Etec Adolpho Berezin | Regência - Etec de Artes | Comércio | Secretariado- Etec Praia Grande | Desenvolvimento de Sistemas- FAT- Fundação de Apoio a Tecnologia
 📚 Especialização Técnica | Gestão de Projetos - Etec Praia Grande   
 🎓 Graduação | Administração - Unisanta | Matemática - IME-USP | Ciência de Dados - Univesp    
 🎓 Aluna Especial de Mestrado | Inovação Tecnológica - UNIFESP 
